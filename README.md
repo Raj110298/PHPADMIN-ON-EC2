@@ -29,3 +29,6 @@ rm phpMyAdmin-latest-all-languages.tar.gz
 
 sudo service mysqld start   (if mysqld is configure, else      systemctl start mariadb)
 http://my.public.dns.amazonaws.com/phpMyAdmin 
+
+
+Greate work
